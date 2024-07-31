@@ -40,12 +40,13 @@ This project is a MERN (MongoDB, Express, React, Node.js) application designed t
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AJ-Mern.git
+   https://github.com/Mr-aj33t/MERN-Assignment.git
 
 2. Navigate to the project directory:
    ```bash
     bash
-   cd AJ-Mern
+   cd MERN-Assignment
+   cd MERN
 
 3. Install dependencies for both backend and frontend:
     ```bash
